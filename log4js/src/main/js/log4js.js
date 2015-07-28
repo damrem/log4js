@@ -142,7 +142,7 @@ var Log4js = {
  * @namespace 
  * @constructor
  */
-Log4js = function(){};
+//Log4js = function(){};
 
 /**
  * Internal object extension (OO) methods.
