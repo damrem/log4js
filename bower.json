@@ -1,6 +1,6 @@
 {
   "name": "log4js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "log4js/src/main/js/log4js.js",
   "authors": [
     "stritti (https://github.com/stritti)"
